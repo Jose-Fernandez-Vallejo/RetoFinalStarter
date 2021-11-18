@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "listamiembros.maxmiembros",
+      "type": "starterRetoFinal.ListaMiembrosProperties",
+      "sourceType": "starterRetoFinal.ListaMiembrosProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "listamiembros.maxmiembros.max-miembros",
+      "type": "java.lang.Long",
+      "sourceType": "starterRetoFinal.ListaMiembrosProperties"
+    }
+  ],
+  "hints": []
+}
